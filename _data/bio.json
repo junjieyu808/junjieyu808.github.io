@@ -33,8 +33,8 @@
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Information and Communications Technology",
       "studyType": "A.S.",
-      "startDate": "Spring 2022",
-      "endDate": "Fall 2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "courses": [
       ]
     }
@@ -48,41 +48,7 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "University of Hawaii",
-      "position": "Professor, Information and Computer Sciences",
-      "website": "https://www.ics.hawaii.edu",
-      "startDate": "1990",
-      "endDate": "Present",
-      "summary": "Conduct teaching and research in software engineering",
-      "highlights": [
-        "Director, Collaborative Software Development Laboratory, 1990-present",
-        "Professor, 2001-present",
-        "Associate Chair, 2010-2016",
-        "Associate Professor, 1995-2010",
-        "Assistant Professor, 1990-1995"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "School of Engineering, Blekinge Institute of Technology",
-      "website": "https://www.bth.se/eng/",
-      "position": "Visiting Professor",
-      "startDate": "2006",
-      "endDate": "",
-      "summary": "Research in software engineering"
-    },
-    {
-      "organization": "Distributed Systems Technology Centre, University of Queensland",
-      "website": "https://www.uq.edu.au/",
-      "position": "Senior Research Fellow",
-      "startDate": "1997",
-      "endDate": "",
-      "summary": "Research in computer supported cooperative work"
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request"
