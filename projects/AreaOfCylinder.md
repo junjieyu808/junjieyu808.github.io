@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cylinder.jpg
+image: img/Cylinder.png
 title: "Simple Cylinder Calculator"
 date: 2022
 published: true
@@ -14,7 +14,7 @@ summary: "A program I had done in ICS 111 which will create a simple cylinder ca
 This is a program I had done in ICS 111 which will create a simple cylinder calculator where it will ask the user for a 
 radius and the height of the cylinder. Then it will calculate the area of the cylinder.
 
-
+Here is the code:
 ```cpp
 import java.util.Scanner;
 /**
