@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Pokemon data storing.png
 title: "Cotton"
 date: 2014
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
