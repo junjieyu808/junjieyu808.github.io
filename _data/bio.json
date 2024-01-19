@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Programming language",
-      "keywords": [ "C", "C++", "Java", "Javascript", ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
