@@ -20,37 +20,72 @@
   ],
   "skills": [
     {
-      "name": "Programming language",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "React", "Flutter", "Dart" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "Kapiolani Community College, Honolulu, HI",
-      "area": "Information and Communications Technology",
-      "studyType": "A.S.",
-      "startDate": "Spring 2022",
-      "endDate": "Fall 2023",
+      "institution": "University of Massachusetts, Amherst, MA",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "1983",
+      "endDate": "1990",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Michigan, Ann Arbor, MI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "1976",
+      "endDate": "1981",
       "courses": [
       ]
     }
+  ],
+  "work": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
-      "studyType": "B.S.",
-      "startDate": "2024-01-08",
+      "company": "University of Hawaii",
+      "position": "Professor, Information and Computer Sciences",
+      "website": "https://www.ics.hawaii.edu",
+      "startDate": "1990",
       "endDate": "Present",
-      "courses": [
+      "summary": "Conduct teaching and research in software engineering",
+      "highlights": [
+        "Director, Collaborative Software Development Laboratory, 1990-present",
+        "Professor, 2001-present",
+        "Associate Chair, 2010-2016",
+        "Associate Professor, 1995-2010",
+        "Assistant Professor, 1990-1995"
       ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "School of Engineering, Blekinge Institute of Technology",
+      "website": "https://www.bth.se/eng/",
+      "position": "Visiting Professor",
+      "startDate": "2006",
+      "endDate": "",
+      "summary": "Research in software engineering"
+    },
+    {
+      "organization": "Distributed Systems Technology Centre, University of Queensland",
+      "website": "https://www.uq.edu.au/",
+      "position": "Senior Research Fellow",
+      "startDate": "1997",
+      "endDate": "",
+      "summary": "Research in computer supported cooperative work"
     }
   ],
   "references": [
     {
       "name": "Available upon request"
     }
-  ],
+  ]
 }
