@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Keno.jpg
+image: img/Keno.jg
 title: "Easy Keno Game"
 date: 2023
 published: true
