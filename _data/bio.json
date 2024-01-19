@@ -30,20 +30,20 @@
   ],
   "education": [
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "startDate": "1983",
-      "endDate": "1990",
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Information and Communications Technology",
+      "studyType": "A.S.",
+      "startDate": "Spring 2022",
+      "endDate": "Fall 2023",
       "courses": [
       ]
-    },
+    }
     {
-      "institution": "University of Michigan, Ann Arbor, MI",
-      "area": "Computer Science",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "1976",
-      "endDate": "1981",
+      "startDate": "2024",
+      "endDate": "Present",
       "courses": [
       ]
     }
