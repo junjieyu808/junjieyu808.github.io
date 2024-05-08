@@ -17,21 +17,27 @@ In today's digital age, the integration of artificial intelligence (AI) into var
 Throughout this semester, my interaction with AI has been extensive and varied. Here are the areas in which I have utilized AI in the classroom:
 
 1.Experience WODs
+
 For the experience WODs, I didn't use AI that much because thats very last thing we should do. We have to try coding the practice WODs by ourself first to better learning on it. Then, we also have the video to watch if we take the experience WODs too long. The only time I use AI on experience WODs is when the code still have problem after I follow every step from the professor.
 
 2.In-class Practice WODs
+
 For the in-class practice WODs, same thing as experience WODs, I practice writing the code first then I use Chatgpt only when something is struck.
 
 3.In-class WODs
+
 For the in-class WODs, I use AI also everytime except for the WODs that using html and css which is something that Chatgpt really hard to give me the way I want it to be. Because the in-class WODs have to finish on time, otherwise will get a 0 from it, so I use AI to finish most of the task during the WODs and I just need to fix some of the code Chatgpt give me.
 
 4.Essays
+
 I had use AI for my essays, and how I use it is that base on the requirement, I tell Chatgpt some part that I was experienced and want the included in the essay, and Chatgpt will give me the essay base on what I was given to Chatgpt. Also, I let chatgpt thinking an interesting title for me as well.
 
 5.Final project
+
 For the final project, I use a lots of AI, because the final project is really a challenge to me. There is many things that I don't really understand, and I had to ask Chatgpt to figure out for me. Especially the part that used react bootstrap, I no idea on some of the value that why something is used, and Chatgpt really helping me a lots in some of the problem. However, there are many problems that Chatgpt didn't solve well, and I have to ask my groupmate for help.
 
 6.Explaining code
+
 Like I said before in #5, there are some code from react bootstrap that I didn't understand. So I ask Chatgpt to explaining the code for me.
 
 ## III. Impact on Learning and Understanding:
