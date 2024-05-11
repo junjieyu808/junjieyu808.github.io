@@ -12,24 +12,28 @@ labels:
 summary: "A program I had done in ICS 314 where people can find or post recipe base on their needs"
 ---
 
-##Flavor Forge
+## Flavor Forge
 
 FlavorForge stands at the forefront of a culinary evolution for college students. Beyond just sharing recipes, our innovative platform offers a vibrant community where culinary enthusiasts can connect, exchange tips, and inspire one another. We understand the challenges of limited resources and diverse dietary requirements, which is why FlavorForge is equipped with tools to customize recipes according to individual preferences and available ingredients. Our vision is to foster a culture of culinary creativity and self-sufficiency among students, empowering them to not only eat well but also enjoy the process of cooking amidst their busy academic schedules.
 
 Here is the preview of our program:
 
-##Home Page
+## Home Page
 <img class="img-fluid" src="../img/FlavorForgeHome.png">
-##Recipe
+
+## Recipe
 <img class="img-fluid" src="../img/FlavorForgeRecipe.png">
-##RecipeList
+
+## RecipeList
 <img class="img-fluid" src="../img/FlavorForgeRecipeList.png">
-##Profile
+
+## Profile
 <img class="img-fluid" src="../img/FlavorForgeProfile.png">
-##UpdateProfile
+
+## UpdateProfile
 <img class="img-fluid" src="../img/FlavorForgeUpdateProfile.png">
 
-##Conclusion
+## Conclusion
 
 In conclusion, my journey with FlavorForge has been nothing short of enlightening. Through this experience, I've come to appreciate the significance of teamwork in achieving collective goals. Working collaboratively with my peers, I've realized that pooling our diverse skills and perspectives not only enhances the quality of our work but also fosters a sense of camaraderie and mutual support.
 
